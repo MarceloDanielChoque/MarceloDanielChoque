@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[[!Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-daniel-choque-mamani-030387231/)
-<!--
+[[!Linkedin]]
 **MarceloDanielChoque/MarceloDanielChoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
