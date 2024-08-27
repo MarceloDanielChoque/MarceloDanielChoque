@@ -3,7 +3,9 @@
 
 
 ## 💻 Web Developer
-* Mi nombre es **Marce**, soy de España, y actualmente estoy en la **Universidad de La Laguna**.
+* Mi nombre es **Marce**, soy de España**.
+* Actualmente estoy en la **Universidad de La Laguna**.
+* A demas estoy cursando una certificación de Base de Datos **.
 
 
 ## 📱🌍 Contacto!
