@@ -37,6 +37,6 @@
 
 ## 📈 Estadísticas!
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=javiidiazglez&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
+![MarceloDanielChoque's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloDanielChoque&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 [gmail]: choquemarcelodanielz@gmail.com
