@@ -4,7 +4,7 @@
 
 ## 💻 Web Developer
 * Mi nombre es **Marce**, soy de España**.
-* Actualmente estoy en la **Universidad de La Laguna**.
+* Actualmente estoy en la **Universidad de La Laguna (Último año)**.
 * Además estoy cursando una certificación de Base de Datos **.
 
 
@@ -14,7 +14,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcelo-daniel-choque-mamani-030387231" height="30" width="40" /></a>
 </p>
 
-[gmail]: choquemarcelodanielz@gmail.com
+gmail: choquemarcelodanielz@gmail.com
 
 ## 🚀 Habilidades!
 
