@@ -15,7 +15,7 @@
 </p>
 
 gmail: choquemarcelodaniel@gmail.com
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 ## 🚀 Habilidades!
 
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
