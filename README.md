@@ -53,7 +53,9 @@
 
 <br><br>
 
-## 📈 Estadísticas!
+<img align="left" src = "https://github.com/MarceloDanielChoque/imagenes/blob/main/img/estadisticas.gif" width = 40px height=40px>
+<h2 align="left" font-weight="bold">Estadísticas</h2>
+
 <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarceloDanielChoque&theme=dracula&hide_border=true" alt="AnhellO :: Top Langs" /></p>
 <br>
