@@ -46,4 +46,3 @@
 <br>
 ![MarceloDanielChoque's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloDanielChoque&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
-[gmail]: choquemarcelodanielz@gmail.com
