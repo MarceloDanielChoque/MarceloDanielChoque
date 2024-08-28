@@ -41,8 +41,7 @@
 <br><br>
 
 ## 📈 Estadísticas!
-
-![MarceloDanielChoque's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarceloDanielChoque&theme=dracula&hide_border=true)
 <br>
-![MarceloDanielChoque's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloDanielChoque&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarceloDanielChoque&theme=dracula&hide_border=true" alt="AnhellO :: Top Langs" /></p>
+<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloDanielChoque&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="AnhellO :: Top Langs" /></p>
