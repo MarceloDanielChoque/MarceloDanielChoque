@@ -13,14 +13,15 @@
 
 ## 📱🌍 Contacto! 
 
-<a href="https://www.linkedin.com/in/marcelo-daniel-choque-mamani-030387231/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcelo-daniel-choque-mamani-030387231" height="30" width="40" /></a>
-</p>
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/marcelo-daniel-choque-mamani-030387231/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:choquemarcelodaniel@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<br>
 
-gmail: choquemarcelodaniel@gmail.com
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 ## 🚀 Habilidades!
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://github.com/MarceloDanielChoque/imagenes/blob/main/img/gifProgramando.gif" width=120px>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> &nbsp;
@@ -37,7 +38,7 @@ gmail: choquemarcelodaniel@gmail.com
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> &nbsp; </p>
 
 
-<br/>
+<br><br>
 
 ## 📈 Estadísticas!
 
