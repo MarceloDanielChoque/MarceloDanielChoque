@@ -18,6 +18,10 @@
 &emsp;
 <a target="_blank" href="mailto:choquemarcelodaniel@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="t.me/DanielMarce007">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
 <br>
 
 ## 🚀 Habilidades!
