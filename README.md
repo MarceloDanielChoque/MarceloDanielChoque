@@ -4,7 +4,7 @@
 
 
 <img align="left" src = "https://github.com/MarceloDanielChoque/imagenes/blob/main/img/gifSobreMi.gif" width = 40px height=40px>
-<h2 align="left" font-weight="bold">Sobre mi</h2>
+<h2 align="left" font-weight="bold"> Sobre mi</h2>
 
 * Mi nombre es **Daniel**, soy de España.
 * Actualmente estoy en la **Universidad de La Laguna (Último año)**.
