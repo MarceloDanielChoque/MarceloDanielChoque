@@ -25,7 +25,7 @@
 <br>
 
 ## 🚀 Habilidades!
-<img align="right" width=200px height=200px alt="side_sticker" src="https://github.com/MarceloDanielChoque/imagenes/blob/main/img/gifProgramando.gif" width=120px>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://raw.githubusercontent.com/MarceloDanielChoque/imagenes/main/img/gifProgramando.gif?token=GHSAT0AAAAAACWTTRA2WVSD3S5ZHJVZIK56ZWQVK7Q" width=120px>
 <p align="left"> 
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
