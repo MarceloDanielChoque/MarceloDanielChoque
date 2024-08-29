@@ -53,7 +53,7 @@
 
 <br><br>
 
-<img align="left" src = "https://github.com/MarceloDanielChoque/imagenes/blob/main/img/estadisticas.gif" width = 40px height=40px>
+<img align="left" src = "https://raw.githubusercontent.com/MarceloDanielChoque/imagenes/main/img/estadisticaGIF.gif?token=GHSAT0AAAAAACWTTRA3BU2TT43562ORWXR4ZWQVGZQ" width = 40px height=40px>
 <h2 align="left" font-weight="bold">Estadísticas</h2>
 
 <br>
