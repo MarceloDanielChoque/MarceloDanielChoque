@@ -3,7 +3,7 @@
 <br><br>
 
 
-<img align="left" src = "https://raw.githubusercontent.com/MarceloDanielChoque/imagenes/f03e42d0419a3fda0d5da37a19ffeac8d427b09e/img/gifSobreMi.gif?token=AXWEDMJY7JXOCXRVIFNJF23G2CT6W" width = 40px height=40px>
+<img align="left" src="https://raw.githubusercontent.com/MarceloDanielChoque/imagenes/f03e42d0419a3fda0d5da37a19ffeac8d427b09e/img/gifSobreMi.gif?token=AXWEDMJY7JXOCXRVIFNJF23G2CT6W" width = 40px height=40px>
 <h2 align="left" font-weight="bold"> Sobre mi</h2>
 
 * Mi nombre es **Daniel**, soy de España.
