@@ -57,8 +57,7 @@
 <h2 align="left" font-weight="bold">Estadísticas</h2>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloDanielChoque)](https://github.com/MarceloDanielChoque/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloDanielChoque)](https://github.com/MarceloDanielChoque/github-readme-stats) -->
 
 <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarceloDanielChoque&theme=dracula&hide_border=true" alt="AnhellO :: Top Langs" /></p>
