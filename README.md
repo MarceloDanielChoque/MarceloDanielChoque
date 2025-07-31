@@ -1,15 +1,25 @@
 
 # std::cout << "Hola!;   <img src="https://i.imgur.com/csn2hC2.gif" width=25px style="display: inline-block"></img>
-<br><br>
-
-
+<br>
 <img align="left" src="https://raw.githubusercontent.com/MarceloDanielChoque/imagenes/f03e42d0419a3fda0d5da37a19ffeac8d427b09e/img/gifSobreMi.gif?token=AXWEDMJY7JXOCXRVIFNJF23G2CT6W" width=40px height=40px>
-<h2 align="left" font-weight="bold"> Sobre mi</h2>
 
-* Mi nombre es **Daniel**, soy de España.
-* Actualmente estoy en la **Universidad de La Laguna (Último año)**.
-* Además estoy cursando una certificación de **Base de Datos**.
+# 👋 ¡Hola! Soy Daniel
 
+Soy un apasionado de los datos, el software libre y la automatización. Actualmente curso el último año de Ingeniería Informática en la **Universidad de La Laguna (ULL)**, en España 🇪🇸. Me enfoco en el **análisis, procesamiento y gestión de datos**, especialmente en cómo convertir información cruda en soluciones útiles para las personas y las empresas.
+
+## 🚀 Sobre mí
+
+🎯 Me gusta resolver problemas técnicos, automatizar tareas manuales y dar sentido a los datos.  
+🛠️ Tengo experiencia en desarrollo de microservicios con Python + Flask, integración de APIs y procesamiento inteligente de documentos.  
+🔄 He trabajado creando pipelines ETL y de datos, scraping web, y conectando plataformas como HubSpot, ERPs y CRMs mediante APIs REST.  
+☁️ He desplegado microservicios en la nube usando Google Cloud Run y trabajo con Firestore, BigQuery y Google Cloud Storage.  
+📦 Me manejo con bases de datos SQL y NoSQL como MySQL, PostgreSQL, Firestore y BigQuery.
+
+## 📚 Formación & Certificaciones
+
+🎓 Último año de Ingeniería Informática - ULL  
+🎓 Certificación profesional en **Bases de Datos** (580h): MySQL, PostgreSQL, Power BI, XML, XSD  
+🔐 Certificación profesional en **Seguridad Informática** (525h)
 
 ## 📱🌍 Contacto! 
 
